@@ -1,4 +1,4 @@
-# 🎵 Sistema Musical — Fase 1: Frontend (HTML5 & CSS3)
+# 🎵 Sistema Musical — Fase 1: Frontend (HTML & CSS)
 
 Este repositório contém a **Fase 1** do projeto **Sistema Musical**, voltada para o desenvolvimento do frontend estático da aplicação. O projeto contempla a estrutura semântica das telas e a estilização responsiva do sistema de gestão musical.
 

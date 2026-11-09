@@ -4,7 +4,7 @@ Este repositório contém a **Fase 1** do projeto **Sistema Musical**, voltada p
 
 ## 📌 Sobre o Projeto
 
-A Fase 1 estabelece toda a interface visual e experiência do usuário (UI/UX) para o gerenciamento de artistas e acervo musical. O layout foi construído do zero utilizando HTML5 semântico e CSS3 puro (Flexbox e CSS Grid), sem a necessidade de frameworks externos.
+A Fase 1 estabelece toda a interface visual e experiência do usuário (UI/UX) para o gerenciamento de artistas e acervo musical.
 
 ### 🎯 Funcionalidades da Interface
 
